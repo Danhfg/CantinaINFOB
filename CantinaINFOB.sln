@@ -5,6 +5,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ModelCantina", "ModelCantin
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GUICantina", "GUICantina\GUICantina.csproj", "{ACB53FE2-5D03-4781-B054-8187C2A5877F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Controller", "Controller\Controller.csproj", "{0237429D-5BAF-4C8B-806F-45965279859C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -19,6 +21,10 @@ Global
 		{ACB53FE2-5D03-4781-B054-8187C2A5877F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ACB53FE2-5D03-4781-B054-8187C2A5877F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ACB53FE2-5D03-4781-B054-8187C2A5877F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0237429D-5BAF-4C8B-806F-45965279859C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0237429D-5BAF-4C8B-806F-45965279859C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0237429D-5BAF-4C8B-806F-45965279859C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0237429D-5BAF-4C8B-806F-45965279859C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

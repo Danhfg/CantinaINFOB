@@ -76,6 +76,7 @@
             this.funcionárioToolStripMenuItem.Name = "funcionárioToolStripMenuItem";
             this.funcionárioToolStripMenuItem.Size = new System.Drawing.Size(152, 22);
             this.funcionárioToolStripMenuItem.Text = "Funcionário";
+            this.funcionárioToolStripMenuItem.Click += new System.EventHandler(this.funcionárioToolStripMenuItem_Click);
             // 
             // produtoToolStripMenuItem
             // 
@@ -95,13 +96,13 @@
             // vendasToolStripMenuItem
             // 
             this.vendasToolStripMenuItem.Name = "vendasToolStripMenuItem";
-            this.vendasToolStripMenuItem.Size = new System.Drawing.Size(152, 22);
+            this.vendasToolStripMenuItem.Size = new System.Drawing.Size(140, 22);
             this.vendasToolStripMenuItem.Text = "Vendas";
             // 
             // pagamentosToolStripMenuItem
             // 
             this.pagamentosToolStripMenuItem.Name = "pagamentosToolStripMenuItem";
-            this.pagamentosToolStripMenuItem.Size = new System.Drawing.Size(152, 22);
+            this.pagamentosToolStripMenuItem.Size = new System.Drawing.Size(140, 22);
             this.pagamentosToolStripMenuItem.Text = "Pagamentos";
             // 
             // relatóriosToolStripMenuItem
@@ -121,7 +122,7 @@
             // sobreToolStripMenuItem
             // 
             this.sobreToolStripMenuItem.Name = "sobreToolStripMenuItem";
-            this.sobreToolStripMenuItem.Size = new System.Drawing.Size(152, 22);
+            this.sobreToolStripMenuItem.Size = new System.Drawing.Size(104, 22);
             this.sobreToolStripMenuItem.Text = "Sobre";
             // 
             // FormPrincipal
